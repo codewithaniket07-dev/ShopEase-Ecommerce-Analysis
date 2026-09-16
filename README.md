@@ -146,3 +146,7 @@ ShopEase-Ecommerce-Analysis/
 **Aniket**
 
 This project is part of my journey toward becoming a job-ready Data Analyst.
+
+## Dashboard
+
+![ShopEase Sales & Profitability Dashboard](visuals/dashboard.png)
